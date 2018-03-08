@@ -1,0 +1,20 @@
+.citacao-bio {
+	background-color: #D9E5E3;
+	border: 10px solid #C2CCCA; /* cria uma borda de 10px de altura do tipo solida */
+	width: 250px; /*define a largura da borda */
+	box-sizing: border-box; /* define o tipo de borda */
+	margin: 20px 40px; /* define a altura (onde começa a borda) e a largura(onde começa a borda) */
+}
+
+cite {
+	font-style: italic;
+	float: right; /* especifica como um elemento deve flutuar */
+}
+
+.fiat {
+	float: right; /* espécifica como um elemento deve flutuar */
+}
+
+.petrobras {
+	float: left; /* especifica como um elemento deve flutuar */
+}
